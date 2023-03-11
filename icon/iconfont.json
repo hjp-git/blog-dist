@@ -1,0 +1,142 @@
+{
+  "id": "3731451",
+  "name": "vuepress-blog",
+  "font_family": "iconfont",
+  "css_prefix_text": "iconfont-",
+  "description": "blog icon",
+  "glyphs": [
+    {
+      "icon_id": "34349423",
+      "name": "css-copy",
+      "font_class": "CSS-copy",
+      "unicode": "e628a",
+      "unicode_decimal": 942730
+    },
+    {
+      "icon_id": "3970670",
+      "name": "JavaScript",
+      "font_class": "JavaScript",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "6496025",
+      "name": "Webpack",
+      "font_class": "webpack",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "6496027",
+      "name": "React",
+      "font_class": "React",
+      "unicode": "e79b",
+      "unicode_decimal": 59291
+    },
+    {
+      "icon_id": "6496028",
+      "name": "jQuery",
+      "font_class": "jQuery",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "12600657",
+      "name": "css",
+      "font_class": "css",
+      "unicode": "e61",
+      "unicode_decimal": 3681
+    },
+    {
+      "icon_id": "12600727",
+      "name": "html",
+      "font_class": "html",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "13304114",
+      "name": "typescript",
+      "font_class": "Typescript",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "17618958",
+      "name": "JavaScript",
+      "font_class": "ES",
+      "unicode": "e6108",
+      "unicode_decimal": 942344
+    },
+    {
+      "icon_id": "6496026",
+      "name": "Vue",
+      "font_class": "Vue2",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "13744032",
+      "name": "vue",
+      "font_class": "vue3",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "577347",
+      "name": "留言-fill",
+      "font_class": "liuyanfill",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "145725",
+      "name": "首页_填充",
+      "font_class": "shouyetianchong",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "1354934",
+      "name": "关于我们",
+      "font_class": "guanyuwomen",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "5092841",
+      "name": "项目",
+      "font_class": "learning-project",
+      "unicode": "e6289",
+      "unicode_decimal": 942729
+    },
+    {
+      "icon_id": "8766056",
+      "name": "问题管理",
+      "font_class": "wentiguanli",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "12791522",
+      "name": "工具",
+      "font_class": "gongju",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18451255",
+      "name": "笔记本，记录，通讯录",
+      "font_class": "bijibenjilutongxunlu",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "25537643",
+      "name": "粘贴",
+      "font_class": "niantie",
+      "unicode": "e7df",
+      "unicode_decimal": 59359
+    }
+  ]
+}

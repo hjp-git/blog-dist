@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[116],{526:function(t,n,s){"use strict";s.r(n);var e=s(1),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("通过根据容器的宽高来设置百分比,来设置元素的伸缩,不受固定像素的限制")])])}),[],!1,null,null,null);n.default=o.exports}}]);
